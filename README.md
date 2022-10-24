@@ -17,4 +17,4 @@ WHEN I submit my final work
 THEN it loads a webpage successfully from my GitHub!
 
 [Webpage-top](https://user-images.githubusercontent.com/116223460/197456166-f1ad2882-b73f-477e-af4a-dd75ffa9b082.png)
-![webpage-bottom](https://user-images.githubusercontent.com/116223460/197456188-c75dff90-c8bf-42b9-97fb-b37593ad89dc.png)
+[webpage-bottom](https://user-images.githubusercontent.com/116223460/197456188-c75dff90-c8bf-42b9-97fb-b37593ad89dc.png)
